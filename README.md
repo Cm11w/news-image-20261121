@@ -1,5 +1,9 @@
 # news-image-20261121 — World News, Saturday, November 21, 2026
 
+[![make.fun · news-image-20261121](https://make.fun/badge/news-image-20261121.svg)](https://make.fun/bounty/news-image-20261121?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261121)
+[![rank](https://make.fun/badge/news-image-20261121/Cm11w/news-image-20261121/rank.svg)](https://make.fun/bounty/news-image-20261121/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261121)
+[![reward](https://make.fun/badge/news-image-20261121/Cm11w/news-image-20261121/reward.svg)](https://make.fun/bounty/news-image-20261121?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261121)
+
 One 1024x1024 PNG summarising the world news of Saturday, 21 November
 2026 as a newspaper front page: a dark masthead with the date, one lead
 story, and four further stories in a 2x2 grid, with a one-line source
